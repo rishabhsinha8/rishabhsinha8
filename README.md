@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishabhsinha8
-- 👀 I’m interested in Python and software development.
-- 🌱 I’m currently learning react.js
+- 👀 I’m interested in Java and software development.
+- 🌱 I’m currently working with java.
 - 💞️ I’m looking to collaborate on software developers.
 
 <!---
